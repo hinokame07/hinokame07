@@ -19,11 +19,10 @@
         </p>
 </div>
 
-<div align="center">
-        <a href="#">
-             ![Hino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=dark&show_icons=true)
-        </a>
-</div>
+
+![Hino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=dark&show_icons=true)       
+     
+
 
 ##
 
