@@ -21,8 +21,7 @@
 
 <div align="center">
         <a href="#">
-                <img height="160em" src="https://github-readme-stats-q1oxknttp-focamacho.vercel.app/api?username=Hinokame07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-                <img height="160em" src="https://streak-stats.demolab.com/?user=focamacho&theme=radical"/>
+             ![Hino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=dark&show_icons=true)
         </a>
 </div>
 
