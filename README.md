@@ -19,9 +19,9 @@
         </p>
 </div>
 
-<div>
-![Hino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=dark&show_icons=true)       
-</div>    
+
+![Hino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=algolia&show_icons=true)       
+  
 
 
 ##
