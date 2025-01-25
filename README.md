@@ -1,11 +1,11 @@
 <div align="center">
         <a href="#"">
             <h1>
-                <img src="https://github.com/hinokame07/Yay-/blob/main/4f488c09dbabd854b7209a39bfbbb363.gif" height=32px alt="Pokémon Ditto Dancing">
-                <img src ="https://github.com/hinokame07/Yay-/blob/main/be9c6d528bba24a847734b5908e4c5e6%20(1).gif" height=32px alt="Pokémon Pikachu Dancing">
+                <img src="https://github.com/hinokame07/Yay-/blob/main/4f488c09dbabd854b7209a39bfbbb363.gif" height=32px alt="Flor">
+                <img src ="https://github.com/hinokame07/Yay-/blob/main/be9c6d528bba24a847734b5908e4c5e6%20(1).gif" height=32px alt="Brilho">
                 Hino 
-                <img src ="https://github.com/hinokame07/Yay-/blob/main/be9c6d528bba24a847734b5908e4c5e6%20(1).gif" height=32px alt="Pokémon Pikachu Dancing">
-                <img src="https://github.com/hinokame07/Yay-/blob/main/4f488c09dbabd854b7209a39bfbbb363.gif" height=32px alt="Pokémon Ditto Dancing">
+                <img src ="https://github.com/hinokame07/Yay-/blob/main/be9c6d528bba24a847734b5908e4c5e6%20(1).gif" height=32px alt="Brilho">
+                <img src="https://github.com/hinokame07/Yay-/blob/main/4f488c09dbabd854b7209a39bfbbb363.gif" height=32px alt="Flor">
             </h1>
         </a>
         <h3>About me</h3>
@@ -38,5 +38,5 @@
     <br/>
     <br/>
     <br/>
-    <img src="https://github.com/hinokame07/Yay-/blob/main/efc6d29967edb7c2130b9979e868ea14.gif" alt="Gif"/>
+    <img src="https://github.com/hinokame07/Yay-/blob/main/Coelho.jpg" alt="Gif"/>
 </div>
