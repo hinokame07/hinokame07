@@ -20,9 +20,10 @@
 </div>
 
 
-  ![Hino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=algolia&show_icons=true)       
+ <div style="display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f0f0f0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=algolia&show_icons=true" alt="Hino's GitHub stats">
+</div>       
   
-
 
 ##
 
