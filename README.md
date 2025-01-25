@@ -34,7 +34,6 @@
     <a href="https://discord.com/users/925897479722008577"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <br/>
     <a href="https://br.pinterest.com/Hinodeveloper/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white/"></a>
-    <br/>
     <a href="https://github.com/hinokame07"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     <br/>
     <br/>
