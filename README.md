@@ -12,7 +12,9 @@
         <p>
             Hello! I'm Hinokame, a Python and Javascript developer who seeks to improve his skills in the most diverse areas 👋
             <br/>
-            I am passionate about games and I like to create mods and plugins for them ❤
+            Hello! My name is Hino, I am a native Portuguese speaker, and I also speak English! I'm super happy to see you on my profile!
+            <br/>
+            I'm kind of a beginner in this field, and I hope to learn a lot here. I particularly enjoy using Python and JavaScript, but I also know HTML.
             <br/>
         🌹🌼🌷🌸🌻🌺🌹🌼🌷🌸🌻🌺🌹
             <br/>
