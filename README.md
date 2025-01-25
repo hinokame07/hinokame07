@@ -38,5 +38,5 @@
     <br/>
     <br/>
     <br/>
-    <img src="https://github.com/hinokame07/Yay-/blob/main/Coelho.jpg" alt="Gif"/>
+    <img src=https://github.com/hinokame07/Yay-/blob/main/Gato.gif" alt="Gif"/>
 </div>
