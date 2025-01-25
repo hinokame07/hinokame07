@@ -19,11 +19,11 @@
         </p>
 </div>
 
-<center>
+<p align="center">
 
  <img src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=algolia&show_icons=true" alt="Hino's GitHub stats">
 
-</center>
+</p>
 
 ##
 
