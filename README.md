@@ -5,7 +5,7 @@
                 <img src ="https://github.com/focamacho/Focamacho/blob/main/images/pikachu.gif" height=32px alt="Pokémon Pikachu Dancing">
                 Hino 
                 <img src ="https://github.com/focamacho/Focamacho/blob/main/images/pikachu.gif" height=32px alt="Pokémon Pikachu Dancing">
-                <img src="https://github.com/focamacho/Focamacho/blob/main/images/ditto.gif" height=32px alt="Pokémon Ditto Dancing">
+                <img src="https://github.com/hinokame07/Yay-/blob/main/4f488c09dbabd854b7209a39bfbbb363.gif" height=32px alt="Pokémon Ditto Dancing">
             </h1>
         </a>
         <h3>About me</h3>
@@ -34,5 +34,5 @@
     <a href="https://discordapp.com/users/465364296839331861"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <br/>
     <br/>
-    <img src="https://github.com/focamacho/Focamacho/blob/main/images/cat.gif" alt="Cat Gif"/>
+    <img src="https://github.com/hinokame07/Yay-/blob/main/efc6d29967edb7c2130b9979e868ea14.gif" alt="Gif"/>
 </div>
