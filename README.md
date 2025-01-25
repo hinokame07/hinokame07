@@ -38,5 +38,6 @@
     <a href="https://github.com/hinokame07"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     <br/>
     <br/>
+    <br/>
     <img src="https://github.com/hinokame07/Yay-/blob/main/efc6d29967edb7c2130b9979e868ea14.gif" alt="Gif"/>
 </div>
