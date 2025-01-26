@@ -24,6 +24,7 @@
 </div>
 
 <div align="center">
+<p>
 <br>
 Hello! My name is Hinokame, but my real name is Felipe!
 <br/>
@@ -34,7 +35,7 @@ I’ve also met exceptional and incredible people along the way, and I will defi
 I’m 13 years old currently.
 <br/>
 I hope to learn many things and welcome to my GitHub!
-
+</p>
 </div>
 
 
