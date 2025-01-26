@@ -23,8 +23,8 @@
 
 <p align="center">
 
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats">
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinokame07&theme=holi)]https://github.com/hinokame07/"
+ <img src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats">
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinokame07&theme=holi" alt="Hino's GitHub stats">
 </p>
 
 ##
