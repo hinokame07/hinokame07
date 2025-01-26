@@ -21,11 +21,6 @@
         </p>
 </div>
 
-<div align="center">
-<a href="#">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats" />
-    <img height="160em" src="https://streak-stats.demolab.com?user=hinokame07&theme=holi-theme&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
- </a>
 </div>
 <br>
 Hello! My name is Hinokame, but my real name is Felipe! I recently discovered the world of programming, but there were amazing people who helped me understand how it works!
@@ -33,6 +28,12 @@ Hello! My name is Hinokame, but my real name is Felipe! I recently discovered th
 I’ve also met exceptional and incredible people along the way, and I will definitely remember them forever. I’m 13 years old currently.
 <br/>
 I hope to learn many things and welcome to my GitHub!
+
+<div align="center">
+<a href="#">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats" />
+    <img height="160em" src="https://streak-stats.demolab.com?user=hinokame07&theme=holi-theme&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+ </a>
 
 ##
 
