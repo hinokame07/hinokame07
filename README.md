@@ -24,7 +24,7 @@ as<div align="center">
 <p align="center">
 
  <img src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats">
- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinokame07&theme=holi" alt="Hino's GitHub stats">
+ <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinokame07&theme=holi" alt="Hino's GitHub stats">
 </p>
 
 ##
