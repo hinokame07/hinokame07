@@ -27,7 +27,15 @@
     <img height="160em" src="https://streak-stats.demolab.com?user=hinokame07&theme=holi-theme&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
  </a>
 </div>
+<br>
 
+> 🤖 Bot and API Developer.
+> 
+> 💞 Lover of programming and technology.
+> 
+> 🎶 Music is always present while I’m coding, with a preference for calming music.
+
+</br>
 
 ##
 
