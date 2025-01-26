@@ -34,13 +34,14 @@ I’ve also met exceptional and incredible people along the way, and I will defi
 <br/>
 I hope to learn many things and welcome to my GitHub!
 
-<h1
+##
+
 > 🤖 Bot and API Developer.
 > 
 > 💞 Lover of programming and technology.
 > 
 > 🎶 Music is always present while I’m coding, with a preference for calming music.
-</h1>
+
 </br>
 
 ##
