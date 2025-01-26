@@ -20,8 +20,7 @@
             <br/>
         </p>
 </div>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats" />
     <img src="https://streak-stats.demolab.com?user=hinokame07&theme=holi-theme&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
