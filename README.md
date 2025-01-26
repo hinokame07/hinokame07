@@ -21,10 +21,10 @@
         </p>
 </div>
 
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinokame07&theme=holi" alt="Hino's GitHub stats" height="194.5em">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats" height="194.5em">
-</p>
+<div>        
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinokame07&theme=holi" alt="Hino's GitHub stats" height="194.5em" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats" height="194.5em" />
+</div>
 
 ##
 
