@@ -28,14 +28,19 @@
  </a>
 </div>
 <br>
-Olá!
+Hello! My name is Hinokame, but my real name is Felipe! I recently discovered the world of programming, but there were amazing people who helped me understand how it works!
+<br/>
+I’ve also met exceptional and incredible people along the way, and I will definitely remember them forever. I’m 13 years old currently.
+<br/>
+I hope to learn many things and welcome to my GitHub!
 
+<h1
 > 🤖 Bot and API Developer.
 > 
 > 💞 Lover of programming and technology.
 > 
 > 🎶 Music is always present while I’m coding, with a preference for calming music.
-
+</h1>
 </br>
 
 ##
