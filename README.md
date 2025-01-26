@@ -1,4 +1,4 @@
-as<div align="center">
+<div align="center">
         <a href="#"">
             <h1>
                 <img src="https://github.com/hinokame07/Yay-/blob/main/4f488c09dbabd854b7209a39bfbbb363.gif" height=32px alt="Flor">
@@ -24,7 +24,7 @@ as<div align="center">
 <p align="center">
 
  <img src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats">
- <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinokame07&theme=holi" alt="Hino's GitHub stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinokame07&theme=holi" alt="Hino's GitHub stats">
 </p>
 
 ##
