@@ -16,7 +16,7 @@
             <br/>
             I'm kind of a beginner in this field, and I hope to learn a lot here. I particularly enjoy using Python and JavaScript, but I also know HTML.
             <br/>
-        🌹🌼🌷🌸🌻🌺🌹🌼🌷🌸🌻🌺🌹
+        💙🔵✨🌐🧊💙🔵✨🌐🧊💙🔵
             <br/>
         </p>
 </div>
