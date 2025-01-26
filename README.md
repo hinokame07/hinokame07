@@ -25,7 +25,8 @@
             I’m 13 years old currently.
             <br/>
             I hope to learn many things and welcome to my GitHub!
-        💙🔵✨🌐🧊💙🔵✨🌐🧊💙🔵
+            <br/>
+          💙🔵✨🌐🧊💙🔵✨🌐🧊💙🔵
             <br/>
         </p>
 </div>
