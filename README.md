@@ -21,11 +21,10 @@
         </p>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<p>
    <img height="194.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinokame07&theme=holi" alt="Hino's GitHub stats" />
    <img height="194.5em" src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats" />
-</div>
-
+</p>
 
 
 ##
