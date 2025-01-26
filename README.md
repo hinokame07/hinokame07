@@ -15,29 +15,22 @@
             Hello! My name is Hino, I am a native Portuguese speaker, and I also speak English! I'm super happy to see you on my profile!
             <br/>
             I'm kind of a beginner in this field, and I hope to learn a lot here. I particularly enjoy using Python and JavaScript, but I also know HTML.
+            <br/><br>
+            Hello! My name is Hinokame, but my real name is Felipe!
             <br/>
+            I recently discovered the world of programming, but there were amazing people who helped me understand how it works!
+            <br/>
+            I’ve also met exceptional and incredible people along the way, and I will definitely remember them forever. 
+            <br/>
+            I’m 13 years old currently.
+            <br/>
+            I hope to learn many things and welcome to my GitHub!
         💙🔵✨🌐🧊💙🔵✨🌐🧊💙🔵
             <br/>
         </p>
 </div>
 
 </div>
-
-<div align="center">
-<p>
-<br>
-Hello! My name is Hinokame, but my real name is Felipe!
-<br/>
-I recently discovered the world of programming, but there were amazing people who helped me understand how it works!
-<br/>
-I’ve also met exceptional and incredible people along the way, and I will definitely remember them forever. 
-<br/>
-I’m 13 years old currently.
-<br/>
-I hope to learn many things and welcome to my GitHub!
-</p>
-</div>
-
 
 <div align="center">
 <a href="#">
