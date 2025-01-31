@@ -26,8 +26,6 @@
             <br/>
             I hope to learn many things and welcome to my GitHub!
             <br/>
-            More projects before. 
-            <br/>
           💙🔵✨🌐🧊💙🔵✨🌐🧊💙🔵
             <br/>
         </p>
