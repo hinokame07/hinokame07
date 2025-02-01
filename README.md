@@ -58,6 +58,7 @@
     <a href="https://br.pinterest.com/Hinodeveloper/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white/"></a>
     <a href="https://github.com/hinokame07"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     <br/>
+    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H514Z02V)
     <br/>
     <br/>
     <img src="https://github.com/hinokame07/Yay-/blob/main/Gato.gif" alt="Gif"/>
