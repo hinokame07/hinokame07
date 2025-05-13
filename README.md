@@ -35,9 +35,10 @@
 
 <div align="center">
 <a href="#">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats" />
-    <img height="160em" src="https://git.io/streak-stats"><img src="https://gith-sand.vercel.app?user=hinokame07&theme=holi-theme" alt="GitHub Streak" />
- </a>
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats" />
+  <img height="160em" width="400em" src="https://gith-sand.vercel.app?user=hinokame07&theme=holi-theme" alt="GitHub Streak" />
+</a>
+
 
 ##
 
