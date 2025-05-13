@@ -36,7 +36,7 @@
 <div align="center">
 <a href="#">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats" />
-    <img height="160em" src="https://streak-stats.demolab.com?user=hinokame07&theme=holi-theme&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <a href="https://git.io/streak-stats"><img src="https://gith-sand.vercel.app?user=hinokame07&theme=holi-theme" alt="GitHub Streak" /></a>
  </a>
 
 ##
