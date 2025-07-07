@@ -1,12 +1,13 @@
 <div align="center">
   <a href="#">
-    <h1>
-      <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/4f488c09dbabd854b7209a39bfbbb363.gif" height="32px" alt="Flor">
-      <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/Brilhos.gif" height="32px" alt="Brilho">
-      Hino
-      <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/Brilhos.gif" height="32px" alt="Brilho">
-      <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/4f488c09dbabd854b7209a39bfbbb363.gif" height="32px" alt="Flor">
-    </h1>
+<h1>
+  <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/4f488c09dbabd854b7209a39bfbbb363.gif" style="height: 32px; width: auto; object-fit: contain;" alt="Flor">
+  <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/Brilhos.gif" style="height: 32px; width: auto; object-fit: contain;" alt="Brilho">
+  Hino
+  <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/Brilhos.gif" style="height: 32px; width: auto; object-fit: contain;" alt="Brilho">
+  <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/4f488c09dbabd854b7209a39bfbbb363.gif" style="height: 32px; width: auto; object-fit: contain;" alt="Flor">
+</h1>
+
   </a>
 
   <h3>About me</h3>
