@@ -29,7 +29,7 @@
 <div align="center">
   <a href="#">
     <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats" />
-    <img height="160em" width="400em" src="https://streak-stats.demolab.com?user=hinokame07&theme=holi-theme&" alt="GitHub Streak" />
+    <img height="170em" width="400em" src="https://streak-stats.demolab.com?user=hinokame07&theme=holi-theme&" alt="GitHub Streak" />
   </a>
 </div>
 
