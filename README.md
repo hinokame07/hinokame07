@@ -27,9 +27,18 @@
 <br/><br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hinokame07&show_icons=true&theme=holi" alt="GitHub Stats" width="420"/>
-  <img src="https://streak-stats.demolab.com?user=Hinokame07&theme=holi-theme" alt="GitHub Streak" width="420"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Hinokame07&show_icons=true&theme=holi&layout=compact" 
+    alt="GitHub Stats" 
+    height="170" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Hinokame07&theme=holi-theme" 
+    alt="GitHub Streak" 
+    height="170" 
+  />
 </p>
+
 
 
 
