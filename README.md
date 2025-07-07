@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-<table align="center" style="border-collapse: separate; border-spacing: 20px;">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td>
       <img 
@@ -44,6 +44,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
