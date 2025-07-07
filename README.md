@@ -26,22 +26,24 @@
 
 <br/><br/>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Hinokame07&show_icons=true&theme=holi&layout=compact" 
-    alt="GitHub Stats" 
-    height="170" 
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=Hinokame07&theme=holi-theme" 
-    alt="GitHub Streak" 
-    height="170" 
-  />
-</p>
-
-
-
-
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Hinokame07&show_icons=true&theme=holi&layout=compact" 
+        alt="GitHub Stats" 
+        height="170" 
+      />
+    </td>
+    <td>
+      <img 
+        src="https://streak-stats.demolab.com?user=Hinokame07&theme=holi-theme" 
+        alt="GitHub Streak" 
+        height="170" 
+      />
+    </td>
+  </tr>
+</table>
 
 
 <br/>
