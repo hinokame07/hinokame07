@@ -1,11 +1,12 @@
 <div align="center">
     <a href="#"">
         <h1>
-            <img src="https://github.com/hinokame07/Yay-/blob/main/4f488c09dbabd854b7209a39bfbbb363.gif" height=32px alt="Flor">
-            <img src ="https://github.com/hinokame07/Yay-/blob/main/Brilhos.gif" height=32px alt="Brilho">
+            <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/4f488c09dbabd854b7209a39bfbbb363.gif" height="32px" alt="Flor">
+            <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/Brilhos.gif" height="32px" alt="Brilho">
             Hino 
-            <img src ="https://github.com/hinokame07/Yay-/blob/main/Brilhos.gif" height=32px alt="Brilho">
-            <img src="https://github.com/hinokame07/Yay-/blob/main/4f488c09dbabd854b7209a39bfbbb363.gif" height=32px alt="Flor">
+            <img src ="" height=32px alt="Brilho">
+            <img src ="https://raw.githubusercontent.com/hinokame07/Yay-/main/Brilhos.gif" height=32px alt="Brilho">
+            <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/4f488c09dbabd854b7209a39bfbbb363.gif" height=32px alt="Flor">
         </h1>
     </a>
     <h3>About me</h3>
