@@ -27,11 +27,14 @@
 <br/><br/>
 
 <div align="center">
-  <a href="#">
+  <a href="https://github.com/Hinokame07">
     <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats" />
-    <img height="170em" width="400em" src="https://streak-stats.demolab.com?user=hinokame07&theme=holi-theme&" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/Hinokame07">
+    <img height="160em" width="400em" src="https://streak-stats.demolab.com?user=hinokame07&theme=holi-theme" alt="GitHub Streak" />
   </a>
 </div>
+
 
 <br/>
 
