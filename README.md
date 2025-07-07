@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Hinokame07&show_icons=true&theme=holi&layout=compact" 
     alt="GitHub Stats" 
