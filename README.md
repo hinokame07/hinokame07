@@ -26,16 +26,10 @@
 
 <br/><br/>
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <a href="https://github.com/Hinokame07" target="_blank">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hinokame07&theme=holi&show_icons=true" alt="Hino's GitHub stats" />
-    </a>
-    <a href="https://github.com/Hinokame07" target="_blank">
-      <img height="160" src="https://streak-stats.demolab.com?user=hinokame07&theme=holi-theme" alt="GitHub Streak" />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hinokame07&show_icons=true&theme=holi" alt="GitHub Stats" width="420"/>
+  <img src="https://streak-stats.demolab.com?user=Hinokame07&theme=holi-theme" alt="GitHub Streak" width="420"/>
+</p>
 
 
 
