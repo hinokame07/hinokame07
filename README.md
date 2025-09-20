@@ -18,7 +18,7 @@
     My real name is Felipe!<br/>
     I recently discovered the world of programming, but there were amazing people who helped me understand how it works!<br/>
     I’ve also met exceptional and incredible people along the way, and I will definitely remember them forever.<br/>
-    I’m 13 years old currently.<br/>
+    I’m 14 years old currently.<br/>
     I hope to learn many things and welcome to my GitHub!<br/>
     💙🔵✨🌐🧊💙🔵✨🌐🧊💙🔵<br/>
   </p>
