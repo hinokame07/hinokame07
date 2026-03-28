@@ -13,7 +13,7 @@
   <h3>About me</h3>
   <p>
     Hello! I'm Hinokame, a Python and Javascript developer who seeks to improve his skills in the most diverse areas 👋<br/>
-    Hello! My name is Hino, I am a native Portuguese speaker, and I also speak English! I'm super happy to see you on my profile!<br/>
+    I am a native Portuguese speaker, and I also speak English! I'm super happy to see you on my profile!<br/>
     I'm kind of a beginner in this field, and I hope to learn a lot here. I particularly enjoy using Python and JavaScript, but I also know HTML.<br/><br/>
     My real name is Felipe!<br/>
     I recently discovered the world of programming, but there were amazing people who helped me understand how it works!<br/>
