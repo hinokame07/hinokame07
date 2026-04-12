@@ -36,7 +36,7 @@
     </td>
     <td>
       <img 
-        src="https://streak-stats.demolab.com?user=Hinokame07&theme=holi-theme" 
+        src="[![GitHub Streak](https://streak-stats.demolab.com/?user=hinokame07)](https://git.io/streak-stats)" 
         alt="GitHub Streak" 
         height="170" 
       />
