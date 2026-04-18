@@ -52,5 +52,5 @@
   <br/>
   <a href="https://ko-fi.com/hinodev"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/Gato.gif" alt="Gato GIF" height="100px" />
+  <img src="[https://raw.githubusercontent.com/hinokame07/Yay-/main/Gato.gif](https://i.pinimg.com/originals/20/ff/e4/20ffe419796909feca129d6ab0e846ee.gif)" alt="Gato GIF" height="100px" />
 </div>
