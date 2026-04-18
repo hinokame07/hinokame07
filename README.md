@@ -52,6 +52,5 @@
   <br/>
   <a href="https://ko-fi.com/hinodev"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
   <br/><br/>
-  <img src="<img width="540" height="304" alt="image" src="https://github.com/user-attachments/assets/eafcf3ed-53c5-4e86-8b13-f04a4da737f2" />
-" alt="Gato GIF" height="100px" />
+ <img src="https://i.pinimg.com/originals/20/ff/e4/20ffe419796909feca129d6ab0e846ee.gif">
 </div>
