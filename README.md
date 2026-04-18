@@ -24,7 +24,6 @@
     <td>
       <img 
         <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hinokame07&theme=holi-theme" alt="GitHub Streak" /></a>
-        height="170" 
       />
     </td>
   </tr>
