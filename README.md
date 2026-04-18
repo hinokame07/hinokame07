@@ -10,7 +10,7 @@
 
   </a>
 
-  <h3>About me</h3>
+  <h3>୧ ‧₊˚ 🎐 ⋅ About me ༉‧₊˚.</h3>
   <p>
     Hello! I'm Hinokame, a Python and Javascript developer who seeks to improve his skills in the most diverse areas 👋<br/>
     I am a native Portuguese speaker, and I also speak English! I'm super happy to see you on my profile!<br/>
