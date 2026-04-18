@@ -10,7 +10,7 @@
 
   </a>
 
-<h2>୧ ‧₊˚ 🎐 ⋅ About me ༉‧₊˚.</h2> <p> Hello! I'm Hinokame, a Python and Javascript developer who seeks to improve his skills in the most diverse areas 👋<br/> I am a native Portuguese speaker, and I also speak English! I'm super happy to see you on my profile!<br/> I'm kind of a beginner in this field, and I hope to learn a lot here. I particularly enjoy using Python and JavaScript, but I also know HTML.<br/><br/> My real name is Felipe!<br/> I recently discovered the world of programming, but there were amazing people who helped me understand how it works!<br/> I’ve also met exceptional and incredible people along the way, and I will definitely remember them forever.<br/> I hope to learn many things and welcome to my GitHub!<br/> 💙🔵✨🌐🧊💙🔵✨🌐🧊💙🔵<br/> </p> </div>
+ <p> Hello! I'm Hinokame, a Python and Javascript developer who seeks to improve his skills in the most diverse areas 👋<br/> I am a native Portuguese speaker, and I also speak English! I'm super happy to see you on my profile!<br/> I'm kind of a beginner in this field, and I hope to learn a lot here. I particularly enjoy using Python and JavaScript, but I also know HTML.<br/><br/> My real name is Felipe!<br/> I recently discovered the world of programming, but there were amazing people who helped me understand how it works!<br/> I’ve also met exceptional and incredible people along the way, and I will definitely remember them forever.<br/> I hope to learn many things and welcome to my GitHub!<br/> 💙🔵✨🌐🧊💙🔵✨🌐🧊💙🔵<br/> </p> </div>
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
