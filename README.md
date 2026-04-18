@@ -16,14 +16,14 @@
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=Hinokame07&show_icons=true&theme=holi&layout=compact" 
+        src="https://github-readme-stats.vercel.app/api?username=Hinokame07&show_icons=true&theme=holi&layout=compact"
         alt="GitHub Stats" 
         height="170" 
       />
     </td>
     <td>
       <img 
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hinokame07&theme=holi-theme" alt="GitHub Streak" height=170/></a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hinokame07&theme=holi-theme" alt="GitHub Streak" height=160/></a>
     </td>
   </tr>
 </table>
