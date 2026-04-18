@@ -52,5 +52,5 @@
   <br/>
   <a href="https://ko-fi.com/hinodev"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
   <br/><br/>
- <img src="https://github.com/hinokame07/Yay-/blob/main/59875b7804079062af65ef6f353080f1.gif?raw=true">
+ <img src="https://github.com/hinokame07/Yay-/blob/main/59875b7804079062af65ef6f353080f1.gif?raw=true" height=680>
 </div>
