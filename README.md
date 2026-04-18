@@ -3,7 +3,7 @@
 <h1>
   <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/4f488c09dbabd854b7209a39bfbbb363.gif" style="height: 32px; width: auto; object-fit: contain;" alt="Flor">
   <img src="https://github.com/hinokame07/Yay-/blob/main/Borboletas.gif?raw=true" style="height: 32px; width: auto; object-fit: contain;" alt="Brilho">
- ୧ ‧₊˚ 🎐 ⋅ Hino ⋅ ୭ ˚. ᵎᵎ
+<img src="https://img.shields.io/badge/Hino-%230d1117.svg?style=for-the-badge&logoColor=white">
   <img src="https://github.com/hinokame07/Yay-/blob/main/Borboletas.gif?raw=true" style="height: 32px; width: auto; object-fit: contain;" alt="Brilho">
   <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/4f488c09dbabd854b7209a39bfbbb363.gif" style="height: 32px; width: auto; object-fit: contain;" alt="Flor">
 </h1>
