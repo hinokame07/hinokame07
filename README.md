@@ -2,9 +2,9 @@
   <a href="#">
 <h1>
   <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/4f488c09dbabd854b7209a39bfbbb363.gif" style="height: 32px; width: auto; object-fit: contain;" alt="Flor">
-  <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/Brilhos.gif" style="height: 32px; width: auto; object-fit: contain;" alt="Brilho">
+  <img src="https://github.com/hinokame07/Yay-/blob/main/Borboletas.gif?raw=true" style="height: 32px; width: auto; object-fit: contain;" alt="Brilho">
   Hino
-  <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/Brilhos.gif" style="height: 32px; width: auto; object-fit: contain;" alt="Brilho">
+  <img src="https://github.com/hinokame07/Yay-/blob/main/Borboletas.gif?raw=true" style="height: 32px; width: auto; object-fit: contain;" alt="Brilho">
   <img src="https://raw.githubusercontent.com/hinokame07/Yay-/main/4f488c09dbabd854b7209a39bfbbb363.gif" style="height: 32px; width: auto; object-fit: contain;" alt="Flor">
 </h1>
 
