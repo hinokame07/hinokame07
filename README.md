@@ -2,8 +2,7 @@
   <a href="#">
 <h1>
   <img src="https://github.com/hinokame07/Yay-/blob/main/output-onlinegiftools%20(3).gif?raw=true" style="height: 32px; width: auto; object-fit: contain;" alt="Flor">
-  <img src="<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/585508c4-5d63-43b0-a5bb-b987a73201d4" />
-" style="height: 32px; width: auto; object-fit: contain;" alt="Brilho">
+  <img src="https://github.com/user-attachments/assets/585508c4-5d63-43b0-a5bb-b987a73201d4>
 <img src="https://img.shields.io/badge/Hino-%230d1117.svg?style=for-the-badge&logoColor=white">
   <img src="https://github.com/hinokame07/Yay-/blob/main/Borboletas.gif?raw=true" style="height: 32px; width: auto; object-fit: contain;" alt="Brilho">
   <img src="https://github.com/hinokame07/Yay-/blob/main/output-onlinegiftools%20(3).gif?raw=true" style="height: 32px; width: auto; object-fit: contain;" alt="Flor">
