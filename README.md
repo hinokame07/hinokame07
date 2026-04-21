@@ -19,7 +19,7 @@
         src="https://github-readme-stats.vercel.app/api?username=Hinokame07&show_icons=false&theme=dark&layout=compact" 
         alt="GitHub Stats" 
         height="195" 
-        width="495"
+        width="480"
       />
     </td>
     <td>
