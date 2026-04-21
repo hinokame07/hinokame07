@@ -1,11 +1,11 @@
 <div align="center">
   <a href="#">
 <h1>
-  <img src="https://github.com/hinokame07/Yay-/blob/main/output-onlinegiftools%20(3).gif?raw=true" style="height: 32px; width: auto; object-fit: contain;" alt="Flor">
-  <img src="https://github.com/user-attachments/assets/585508c4-5d63-43b0-a5bb-b987a73201d4>
-<img src="https://img.shields.io/badge/Hino-%230d1117.svg?style=for-the-badge&logoColor=white">
-  <img src="https://github.com/hinokame07/Yay-/blob/main/Borboletas.gif?raw=true" style="height: 32px; width: auto; object-fit: contain;" alt="Brilho">
-  <img src="https://github.com/hinokame07/Yay-/blob/main/output-onlinegiftools%20(3).gif?raw=true" style="height: 32px; width: auto; object-fit: contain;" alt="Flor">
+  <img src="https://github.com/hinokame07/Yay-/blob/main/98bf2bab3eca90338da2a441c34fc8f1%20(1).gif?raw=true" style="height: 32px; width: auto; object-fit: contain;" alt="Flor">
+  <img src="https://github.com/hinokame07/Yay-/blob/main/186038000d3b8833c9da8b53bfc6c6a0.gif?raw=true" style="height: 32px; width: auto; object-fit: contain;" alt="Flor">
+  <img src="https://img.shields.io/badge/Hino-%230d1117.svg?style=for-the-badge&logoColor=white">
+  <img src="https://github.com/hinokame07/Yay-/blob/main/186038000d3b8833c9da8b53bfc6c6a0.gif?raw=true" style="height: 32px; width: auto; object-fit: contain;" alt="Brilho">
+  <img src="https://github.com/hinokame07/Yay-/blob/main/98bf2bab3eca90338da2a441c34fc8f1%20(1).gif?raw=true" style="height: 32px; width: auto; object-fit: contain;" alt="Flor">
 </h1>
 
   </a>
