@@ -48,5 +48,5 @@
 <a href="https://ko-fi.com/hinodev"><img src="https://img.shields.io/badge/Ko--fi-%230d1117?style=for-the-badge&logo=kofi&logoColor=white"/></a>
 
   <br/><br/>
- <img src="https://github.com/hinokame07/Yay-/blob/main/59875b7804079062af65ef6f353080f1.gif?raw=true" width=680 height=240>
+ <img src="https://github.com/hinokame07/Yay-/blob/main/6673d889b774da4a5e6acc9b744c976c.jpg?raw=true" width=680 height=240>
 </div>
