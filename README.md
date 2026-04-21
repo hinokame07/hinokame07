@@ -10,7 +10,7 @@
 
   </a>
 
- <p> Hello! I'm Hinokame, a Python and Javascript developer who seeks to improve his skills in the most diverse areas 👋<br/> I am a native Portuguese speaker, and I also speak English! I'm super happy to see you on my profile!<br/> I'm kind of a beginner in this field, and I hope to learn a lot here. I particularly enjoy using Python and JavaScript, but I also know HTML.<br/><br/> 🖤⬛✨🏴‍☠️🕶️🖤⬛✨🏴‍☠️🕶️🖤⬛<br/> </p> </div>
+ <p> Hello! I'm Hinokame, a Python and Javascript developer who seeks to improve his skills in the most diverse areas 👋<br/> I am a native Portuguese speaker, and I also speak English! I'm super happy to see you on my profile!<br/> I'm kind of a beginner in this field, and I hope to learn a lot here. I particularly enjoy using Python and JavaScript, but I also know HTML.<br/><br/> ╋━ 𝘊𝘰𝘮𝘦𝘤𝘦 𝘢 𝘷𝘢𝘭𝘰𝘳𝘪𝘻𝘢𝘳 𝘮𝘢𝘪𝘴 𝘰 𝘴𝘦𝘶 𝘱𝘳ó𝘱𝘳𝘪𝘰 𝘵𝘳𝘢𝘣𝘢𝘭𝘩𝘰. 𓂃 ࣪˖ ִֶ♱ ྀིྀ<br/> </p> </div>
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
