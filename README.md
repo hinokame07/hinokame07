@@ -23,7 +23,7 @@
     </td>
     <td>
       <img 
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hinokame07&theme=holi-theme" alt="GitHub Streak" height=165/></a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hinokame07&theme=dark&fire=7A7A7A&ring=7A7A7A&currStreakLabel=7A7A7A" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
