@@ -45,7 +45,8 @@
 <div align="center">
 <a href="https://www.reddit.com/user/Ok-Feature3697/"><img src="https://img.shields.io/badge/Reddit-%230d1117?style=for-the-badge&logo=reddit&logoColor=white"/></a> <a href="https://discord.com/users/925897479722008577"><img src="https://img.shields.io/badge/Discord-%230d1117?style=for-the-badge&logo=discord&logoColor=white"/></a> <br/> <a href="https://br.pinterest.com/Hinodeveloper/"><img src="https://img.shields.io/badge/Pinterest-%230d1117?style=for-the-badge&logo=pinterest&logoColor=white"/></a> <a href="https://github.com/hinokame07"><img src="https://img.shields.io/badge/GitHub-%230d1117?style=for-the-badge&logo=github&logoColor=white"/></a> <br/>
 
-  <a href="https://ko-fi.com/hinodev"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
+<a href="https://ko-fi.com/hinodev"><img src="https://img.shields.io/badge/Ko--fi-%230d1117?style=for-the-badge&logo=kofi&logoColor=white"/></a>
+
   <br/><br/>
  <img src="https://github.com/hinokame07/Yay-/blob/main/59875b7804079062af65ef6f353080f1.gif?raw=true" width=680 height=240>
 </div>
