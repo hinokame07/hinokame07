@@ -1,4 +1,4 @@
-<img src = "githubanner.JPG"/>
+<img src="githubanner.JPG.png"/>
 
 <p align="center">
   <a href="https://www.reddit.com/user/Ok-Feature3697/" target="_blank">
@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+<h2 align="center"> <img src="imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
 <img src="https://github.com/hinokame07/Yay-/blob/main/98bf2bab3eca90338da2a441c34fc8f1%20(1).gif?raw=true" width="250" align="right" style="margin-left: 20px;" />
 <br/>
@@ -35,15 +35,15 @@
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Bot and API Developer </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Passionate about programming and technology </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Music is always present while coding </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Beginner developer always seeking evolution  </b></em><br/>
+   <img src="imgs/img3.png" width="15"/>   <em><b> Bot and API Developer </b></em> <br/>
+   <img src="imgs/img4.png" width="15"/>   <em><b> Passionate about programming and technology </b></em><br/>
+   <img src="imgs/img2.png" width="15"/>   <em><b> Music is always present while coding </b></em><br/>
+   <img src="imgs/img1.png" width="15"/>   <em><b> Beginner developer always seeking evolution  </b></em><br/>
 </p>
 
 <br/>
 <br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
@@ -56,7 +56,7 @@
 
 <br/>
 
-<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+<h2 align="center"> <img src="imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=Hinokame07&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
 
