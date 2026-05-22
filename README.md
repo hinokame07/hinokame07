@@ -57,14 +57,7 @@
 <br/>
 
 <h2 align="center"> <img src="imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
-<div align = "center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Hinokame07&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=hinokame07&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hinokame07&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
