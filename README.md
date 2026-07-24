@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A7+Coding+Under+the+Moonlight+%E2%9C%A7;%E2%9C%A7+Where+Silence+Meets+Dreams+%E2%9C%A7;%E2%9C%A7+Dreaming+Through+Every+Line+of+Code+%E2%9C%A7" alt="Typing SVG" />
 
-
+<br>
 
 <img src="https://img.shields.io/badge/-%E2%98%85%20FULL%20STACK%20DEV%20%E2%98%85-0d1117?style=for-the-badge&labelColor=6c3082"/>
 <img src="https://img.shields.io/badge/-%E2%9C%A6%20ANIME%20ENTHUSIAST%20%E2%9C%A6-0d1117?style=for-the-badge&labelColor=b388ff"/>
