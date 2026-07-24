@@ -1,76 +1,94 @@
 <img src="githubanner.JPG.png"/>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=EAF6FF&fontColor=6F8FB8&text=Hinokame&fontSize=55&animation=fadeIn"/>
+
+  <br><br>
+
   <a href="https://www.reddit.com/user/Ok-Feature3697/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-D89AB7?style=for-the-badge&logo=reddit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Reddit-BFDFFF?style=for-the-badge&logo=reddit&logoColor=ffffff"/>
   </a>
   <a href="https://discord.com/users/925897479722008577" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-9E5C79?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-A7D3FF?style=for-the-badge&logo=discord&logoColor=ffffff"/>
   </a>
   <a href="https://br.pinterest.com/Hinodeveloper/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-C67AA0?style=for-the-badge&logo=pinterest&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pinterest-CFE9FF?style=for-the-badge&logo=pinterest&logoColor=ffffff"/>
   </a>
   <a href="https://github.com/hinokame07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-B97898?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-91C8FF?style=for-the-badge&logo=github&logoColor=ffffff"/>
   </a>
   <a href="https://ko-fi.com/hinodev" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-D89AB7?style=for-the-badge&logo=kofi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ko--fi-D9F1FF?style=for-the-badge&logo=kofi&logoColor=ffffff"/>
   </a>
 </p>
 
-<h1 align="center">🕊️ Hinokame</h1>
-<p align="center"><i>Python • JavaScript • APIs • Bots • Web Development</i></p>
+---
+
+<h1 align="center">
+🌙 Hi, I'm Hinokame
+</h1>
+
+<p align="center">
+<i>Python • JavaScript • Bot Developer • API Developer</i>
+</p>
 
 ---
 
-## 🌸 About Me
+## ☾ About Me
 
-<img src="https://github.com/hinokame07/Yay-/blob/main/98bf2bab3eca90338da2a441c34fc8f1%20(1).gif?raw=true" width="250" align="right"/>
+<img align="right" width="250" src="https://github.com/hinokame07/Yay-/blob/main/98bf2bab3eca90338da2a441c34fc8f1%20(1).gif?raw=true"/>
 
-Hello! I'm **Hinokame**, a Brazilian developer passionate about creating bots, APIs and web applications.
+Hello! I'm **Hinokame**, a developer passionate about creating bots, APIs and web applications.
 
-- 🌸 Python & JavaScript Developer
-- 🤍 Learning something new every day
-- 🎵 Music is always with me while coding
-- 💻 HTML, CSS, React, Tailwind and Node.js
-- 🚀 Open-source enthusiast
+- 🌙 Python & JavaScript Developer
+- ☁️ Always learning new technologies
+- 🎧 Music while coding
+- 🤍 HTML • CSS • React • Tailwind
+- ✨ Open Source Enthusiast
 
 ---
 
-## 🎀 Technologies
+## ❄ Technologies
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-D89AB7?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-9E5C79?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-C67AA0?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-B97898?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-D89AB7?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-9E5C79?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-C67AA0?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-B97898?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-D89AB7?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-BFDFFF?style=for-the-badge&logo=python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/JavaScript-A7D3FF?style=for-the-badge&logo=javascript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/HTML5-CFE9FF?style=for-the-badge&logo=html5&logoColor=5B6D92"/>
+<img src="https://img.shields.io/badge/CSS3-91C8FF?style=for-the-badge&logo=css3&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Node.js-D9F1FF?style=for-the-badge&logo=nodedotjs&logoColor=5B6D92"/>
+<img src="https://img.shields.io/badge/Git-BFDFFF?style=for-the-badge&logo=git&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Java-A7D3FF?style=for-the-badge&logo=openjdk&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/React-CFE9FF?style=for-the-badge&logo=react&logoColor=5B6D92"/>
+<img src="https://img.shields.io/badge/TailwindCSS-91C8FF?style=for-the-badge&logo=tailwindcss&logoColor=ffffff"/>
 
 </p>
 
 ---
 
-## 📈 Statistics
+## 🌌 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hinokame07&show_icons=true&bg_color=FFF8FB&title_color=9E5C79&text_color=4A3B47&icon_color=D89AB7&border_color=E8C9D7"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hinokame07&show_icons=true&bg_color=F8FCFF&title_color=7EA6D8&text_color=5C6F91&icon_color=A7D3FF&border_color=DCEFFF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Hinokame07&background=FFF8FB&ring=D89AB7&fire=C67AA0&currStreakLabel=9E5C79&sideLabels=9E5C79&dates=4A3B47&border=E8C9D7"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Hinokame07&background=F8FCFF&ring=A7D3FF&fire=91C8FF&currStreakLabel=7EA6D8&sideLabels=7EA6D8&dates=5C6F91&border=DCEFFF"/>
 
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hinokame07&bg_color=FFF8FB&color=9E5C79&line=D89AB7&point=C67AA0&area=true&area_color=F7E8EF&hide_border=true"/>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hinokame07&bg_color=F8FCFF&color=7EA6D8&line=A7D3FF&point=91C8FF&area=true&area_color=EAF6FF&hide_border=true"/>
+
+</p>
 
 ---
 
-<p align="center">
+## ☽ Currently Learning
 
-> *"Even the quietest wings can hide the strongest dreams."* 🕊️🌸
-
-</p>
+```txt
+🐍 Python
+⚛ React
+🌐 APIs
+🤖 Discord Bots
+☁ Backend Development
