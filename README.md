@@ -1,8 +1,10 @@
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c3082,100:b388ff&height=250&section=header&text=⟨%20Hino%20/%20DEV%20⟩&fontSize=60&fontColor=e4c1f9&fontAlignY=35&desc=フルスタック開発者%20%20|%20%20Full%20Stack%20Developer&descSize=18&descAlignY=55&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c3082,100:b388ff&height=250&section=header&text=⟨%20Hino%20/%20DEV%20⟩&fontSize=60&fontColor=e4c1f9&fontAlignY=35&desc=フルスタック開発者%20%20|%20%20Full%20Stack%20Developer&descSize=18&descAlignY=55&animation=twinkling"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A7+Coding+Under+the+Moonlight+%E2%9C%A7;%E2%9C%A7+Where+Silence+Meets+Dreams+%E2%9C%A7;%E2%9C%A7+Dreaming+Through+Every+Line+of+Code+%E2%9C%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A7+Coding+Under+the+Moonlight+%E2%9C%A7;%E2%9C%A7+Where+Silence+Meets+Dreams+%E2%9C%A7;%E2%9C%A7+Dreaming+Through+Every+Line+of+Code+%E2%9C%A7" alt="Typing SVG" />
+
+
 
 <img src="https://img.shields.io/badge/-%E2%98%85%20FULL%20STACK%20DEV%20%E2%98%85-0d1117?style=for-the-badge&labelColor=6c3082"/>
 <img src="https://img.shields.io/badge/-%E2%9C%A6%20ANIME%20ENTHUSIAST%20%E2%9C%A6-0d1117?style=for-the-badge&labelColor=b388ff"/>
