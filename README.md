@@ -1,4 +1,3 @@
-<img src="githubanner.JPG.png"/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=EAF6FF&fontColor=6F8FB8&text=Hinokame&fontSize=55&animation=fadeIn"/>
