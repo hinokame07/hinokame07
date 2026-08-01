@@ -14,124 +14,53 @@
   <a href="https://ko-fi.com/hinodev" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-1b4376?style=for-the-badge&logo=kofi&logoColor=eaf3ff"/></a>
 </p>
 
----
+<br>
 
-## Sobre
+<h2 align="center"> <img src="imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
-<table align="center">
-  <tr>
-    <td width="260" align="center">
-      <img width="220" src="https://github.com/hinokame07/Yay-/blob/main/98bf2bab3eca90338da2a441c34fc8f1%20(1).gif?raw=true"/>
-    </td>
-    <td>
-      <strong>Hi, I'm Hino.</strong><br/>
-      Gosto de construir coisas que funcionam bem e ainda têm cara de projeto de verdade.
-      No meu radar entram bots, APIs, front-end e pequenos detalhes que deixam tudo mais vivo.
-      O clima aqui puxa para o azul-escuro, com um toque mais free e menos formal.
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/hinokame07/Yay-/blob/main/98bf2bab3eca90338da2a441c34fc8f1%20(1).gif?raw=true" width="250" align="right" style="margin-left: 20px;" />
+<br/>
 
----
-
-## Destaques
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Direction
-
-- Bots e automacoes
-- APIs e integracoes
-- Interfaces web responsivas
-- Estrutura de codigo com manutencao simples
-- Experiencia de uso limpa e direta
-
-    </td>
-    <td width="50%" valign="top">
-
-### Style
-
-- Dark blue palette
-- More decoration, less sterile layout
-- Blocos separados com respiro visual
-- Texto mais natural, menos IA
-
-    </td>
-  </tr>
-</table>
-
----
-
-## Skill Icons
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,tailwind,html,css,git,github,vscode&theme=dark"/>
+<p>
+  Hello There! <em><b> I'm Hinokame </b></em>, a Python and JavaScript developer who seeks to improve his skills in the most diverse areas. I’m a native Portuguese speaker and I also speak English.<br/><br/>
+  I enjoy programming, creating bots and APIs, and learning new technologies every day. Currently, I'm practicing and improving my knowledge through personal and fun projects using Python, JavaScript, HTML and more.
 </p>
 
----
 
-## Repos em Foco
-
-<table>
-  <tr>
-    <td width="25%" align="center"><strong>Bots</strong><br/>Automacao, Discord e utilidades</td>
-    <td width="25%" align="center"><strong>APIs</strong><br/>Backends leves e integracoes</td>
-    <td width="25%" align="center"><strong>Web</strong><br/>Interfaces, landing pages e dashboards</td>
-    <td width="25%" align="center"><strong>Utils</strong><br/>Ferramentas e bibliotecas internas</td>
-  </tr>
-</table>
-
----
-
-## GitHub Readme Stats
+<br/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hinokame07&show_icons=true&hide_border=true&bg_color=030712&title_color=a9c9ff&text_color=d7e6ff&icon_color=7fb2ff"/>
+   <img src="imgs/img3.png" width="15"/>   <em><b> Bot and API Developer </b></em> <br/>
+   <img src="imgs/img4.png" width="15"/>   <em><b> Passionate about programming and technology </b></em><br/>
+   <img src="imgs/img2.png" width="15"/>   <em><b> Music is always present while coding </b></em><br/>
+   <img src="imgs/img1.png" width="15"/>   <em><b> Beginner developer always seeking evolution  </b></em><br/>
 </p>
 
----
-
-## Metrics
+<br/>
+<br/>
+<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Hinokame07?template=classic&base.header=0&base.indepth=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&isocalendar=1&followup=1&languages=1&people=1&languages.limit=8&config.timezone=America%2FSao_Paulo"/>
+  <img src="https://img.shields.io/badge/Python-07111f?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0c1f3a?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-12315d?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-14345e?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-1b4376?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-8db9ff?style=for-the-badge&logo=git&logoColor=07111f" />
+  
+  <img src="https://img.shields.io/badge/Java-102a4f?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1f4b84?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-2c69b2?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
----
+<br/>
 
-## Activity Graph
+<h2 align="center"> <img src="imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hinokame07&bg_color=030712&color=d7e6ff&line=7fb2ff&point=a9c9ff&area=true&area_color=0f2240&hide_border=true"/>
 </p>
 
----
+</div>
 
-## Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hinokame07&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
-
----
-
-## Platane Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
-
----
-
-## Contato
-
-<table>
-  <tr>
-    <td>
-      If you want to talk about projects, ideas or collabs, the links on top are the quickest way in.
-      The goal here is simple: keep the profile visual, expressive and easy to scan.
-    </td>
-  </tr>
-</table>
