@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:0b1b33,50:12315d,75:1f4b84,100:8db9ff&height=280&section=header&text=Hino%20%2F%20Dev&fontSize=56&fontColor=eaf3ff&fontAlignY=35&desc=Explorando%20codigo%2C%20ideias%20e%20estilo&descSize=20&descAlignY=56&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02050d,20:08111f,45:0c1f3a,75:14345e,100:8db9ff&height=290&section=header&text=Hino%20%2F%20Dev&fontSize=58&fontColor=eaf3ff&fontAlignY=34&desc=Dark%20blue%20mood%20%7C%20code%20%7C%20craft%20%7C%20identity&descSize=18&descAlignY=58&animation=twinkling"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=1000&color=A9C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=Bot+developer+%7C+API+builder+%7C+Web+creator;Organizacao+visual%2C+codigo+limpo+e+constancia;Criando+projetos+com+identidade+e+personalidade" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=900&color=A9C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=105&lines=Bot+dev+%7C+API+builder+%7C+web+craft;Clean+code%2C+good+vibes+and+real+delivery;PT-BR+%2B+EN+mix+with+style" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -24,9 +24,10 @@
       <img width="220" src="https://github.com/hinokame07/Yay-/blob/main/98bf2bab3eca90338da2a441c34fc8f1%20(1).gif?raw=true"/>
     </td>
     <td>
-      Desenvolvedor com foco em Python e JavaScript, com interesse em bots, APIs e interfaces web.
-      O estilo visual do perfil segue uma linha azul-escura, com contraste suave e organização mais livre.
-      Aqui o objetivo e criar projetos funcionais sem perder identidade.
+      <strong>Hi, I'm Hino.</strong><br/>
+      Gosto de construir coisas que funcionam bem e ainda têm cara de projeto de verdade.
+      No meu radar entram bots, APIs, front-end e pequenos detalhes que deixam tudo mais vivo.
+      O clima aqui puxa para o azul-escuro, com um toque mais free e menos formal.
     </td>
   </tr>
 </table>
@@ -39,22 +40,23 @@
   <tr>
     <td width="50%" valign="top">
 
-### Direcao
+### Direction
 
 - Bots e automacoes
 - APIs e integracoes
 - Interfaces web responsivas
 - Estrutura de codigo com manutencao simples
+- Experiencia de uso limpa e direta
 
     </td>
     <td width="50%" valign="top">
 
-### Estilo
+### Style
 
-- Tema azul-escuro
-- Visual mais decorado
-- Blocos organizados em camadas
-- Identidade menos formal e mais expressiva
+- Dark blue palette
+- More decoration, less sterile layout
+- Blocos separados com respiro visual
+- Texto mais natural, menos IA
 
     </td>
   </tr>
@@ -70,7 +72,7 @@
 
 ---
 
-## Repositorios em Foco
+## Repos em Foco
 
 <table>
   <tr>
@@ -128,8 +130,8 @@
 <table>
   <tr>
     <td>
-      Se quiser falar sobre projetos, ideias ou oportunidades, os links no topo ficam como atalhos diretos.
-      A proposta deste perfil e misturar identidade visual com uma apresentacao clara do que eu construo.
+      If you want to talk about projects, ideas or collabs, the links on top are the quickest way in.
+      The goal here is simple: keep the profile visual, expressive and easy to scan.
     </td>
   </tr>
 </table>
