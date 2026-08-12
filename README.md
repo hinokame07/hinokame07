@@ -44,17 +44,18 @@
 <h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-07111f?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0c1f3a?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-12315d?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-14345e?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-1b4376?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-8db9ff?style=for-the-badge&logo=git&logoColor=07111f" />
-  
-  <img src="https://img.shields.io/badge/Java-102a4f?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-1f4b84?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-2c69b2?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-05080D?style=for-the-badge&logo=python&logoColor=EAF6FF" />
+  <img src="https://img.shields.io/badge/JavaScript-080C12?style=for-the-badge&logo=javascript&logoColor=F4F9FF" />
+  <img src="https://img.shields.io/badge/HTML5-0B1119?style=for-the-badge&logo=html5&logoColor=EAF6FF" />
+  <img src="https://img.shields.io/badge/CSS3-0D141D?style=for-the-badge&logo=css3&logoColor=EAF6FF" />
+  <img src="https://img.shields.io/badge/Node.js-101820?style=for-the-badge&logo=nodedotjs&logoColor=EAF6FF" />
+  <img src="https://img.shields.io/badge/Git-EAF6FF?style=for-the-badge&logo=git&logoColor=05080D" />
+
+  <img src="https://img.shields.io/badge/Java-0A111A?style=for-the-badge&logo=openjdk&logoColor=F4F9FF" />
+  <img src="https://img.shields.io/badge/React-0B151F?style=for-the-badge&logo=react&logoColor=EAF6FF" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0E1924?style=for-the-badge&logo=tailwindcss&logoColor=EAF6FF" />
 </p>
+
 
 <br/>
 
