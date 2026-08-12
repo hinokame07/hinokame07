@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
   <img src="https://github.com/hinokame07/hinokame07/blob/main/imgs/Untitled1336_20260111224630.png">
 </p>
 
@@ -13,6 +13,7 @@ p align="center">
   <a href="https://br.pinterest.com/Hinodeveloper/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-102238?style=for-the-badge&logo=pinterest&logoColor=EAF4FF"/></a>
   <a href="https://ko-fi.com/hinodev" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-172C45?style=for-the-badge&logo=kofi&logoColor=F4F9FF"/></a>
 </p>
+
 
 
 <br>
