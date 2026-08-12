@@ -7,12 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hinokame07" target="_blank"><img src="https://img.shields.io/badge/GitHub-05080D?style=for-the-badge&logo=github&logoColor=F4F9FF"/></a>
-  <a href="https://discord.com/users/925897479722008577" target="_blank"><img src="https://img.shields.io/badge/Discord-08111F?style=for-the-badge&logo=discord&logoColor=EAF4FF"/></a>
-  <a href="https://www.reddit.com/user/Ok-Feature3697/" target="_blank"><img src="https://img.shields.io/badge/Reddit-0B1726?style=for-the-badge&logo=reddit&logoColor=EAF4FF"/></a>
-  <a href="https://br.pinterest.com/Hinodeveloper/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-102238?style=for-the-badge&logo=pinterest&logoColor=EAF4FF"/></a>
-  <a href="https://ko-fi.com/hinodev" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-172C45?style=for-the-badge&logo=kofi&logoColor=F4F9FF"/></a>
+  <a href="https://github.com/hinokame07" target="_blank"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+  <a href="https://discord.com/users/925897479722008577" target="_blank"><img src="https://img.shields.io/badge/Discord-080C12?style=for-the-badge&logo=discord&logoColor=EAF6FF"/></a>
+  <a href="https://www.reddit.com/user/Ok-Feature3697/" target="_blank"><img src="https://img.shields.io/badge/Reddit-0B1017?style=for-the-badge&logo=reddit&logoColor=EAF6FF"/></a>
+  <a href="https://br.pinterest.com/Hinodeveloper/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-0E151F?style=for-the-badge&logo=pinterest&logoColor=EAF6FF"/></a>
+  <a href="https://ko-fi.com/hinodev" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-111A24?style=for-the-badge&logo=kofi&logoColor=FFFFFF"/></a>
 </p>
+
 
 
 
