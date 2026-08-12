@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02050d,20:08111f,45:0c1f3a,75:14345e,100:8db9ff&height=290&section=header&text=Hino%20%2F%20Dev&fontSize=58&fontColor=eaf3ff&fontAlignY=34&desc=Dark%20blue%20mood%20%7C%20code%20%7C%20craft%20%7C%20identity&descSize=18&descAlignY=58&animation=twinkling"/>
+  <img src="https://github.com/hinokame07/hinokame07/blob/main/imgs/Untitled1336_20260111224630.png">
 </p>
 
 <p align="center">
