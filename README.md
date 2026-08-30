@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hinokame07/hinokame07/blob/main/imgs/Untitled1336_20260111224630.png">
+  <img src="https://github.com/hinokame07/hinokame07/blob/main/Untitled1397_20260408205254.png">
 </p>
 
 <p align="center">
