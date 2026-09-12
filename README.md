@@ -1,10 +1,16 @@
 <div align="center">
 
-# Hinokame
+# Felipe Nascimento
 
-### Developer • Backend • Web • Bots • APIs
+### Software Developer • Backend • Web • Bots • APIs
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=7FB2FF&center=true&vCenter=true&repeat=true&width=820&height=60&lines=Building+things+with+code.;Backend%2C+APIs%2C+bots+and+web.;Always+learning.+Always+shipping." alt="Typing SVG"/>
+<sub>
+  also known as <b>Hinokame</b>
+</sub>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=7FB2FF&center=true&vCenter=true&repeat=true&width=820&height=60&lines=Building+reliable+things+with+code.;Backend%2C+APIs%2C+bots+and+web.;Learning%2C+building+and+improving+every+day." alt="Typing SVG"/>
 
 <br>
 
@@ -26,18 +32,20 @@
 
 ## About me
 
-Hey, I'm **Hinokame**.
+I'm **Felipe Nascimento**, a software developer focused on building practical, well-structured and scalable applications.
 
-I'm a developer interested in **backend development, APIs, bots, automation and modern web applications**.
+My main interests are **backend development, APIs, automation, bots and modern web applications**.
 
-I like understanding how things work behind the scenes, experimenting with different technologies and turning ideas into actual projects.
+I enjoy understanding how systems work beyond the interface, designing application logic, connecting services and turning ideas into functional products.
 
-Most of my current work revolves around **JavaScript / TypeScript, Node.js, React and Python**, but I've also explored languages such as **Java, C# and C++**.
+My current stack is centered around **TypeScript, JavaScript, Node.js, React and Python**, while I also have experience experimenting with **Java, C# and C++**.
 
-I'm constantly improving my knowledge through personal projects, experiments and new technologies.
+I'm continuously improving my knowledge through personal projects, technical experiments and hands-on development.
 
 ```ts
-const hinokame = {
+const felipe = {
+  alias: "Hinokame",
+
   focus: [
     "Backend Development",
     "REST APIs",
@@ -60,12 +68,18 @@ const hinokame = {
     "C++"
   ],
 
+  interests: [
+    "Software Architecture",
+    "APIs & Integrations",
+    "Automation",
+    "Databases",
+    "Full-stack Development"
+  ],
+
   languages: {
     portuguese: "Native",
-    english: "Development & communication"
-  },
-
-  currently: "Building, learning and shipping new projects."
+    english: "Technical & conversational"
+  }
 };
 ```
 
@@ -105,49 +119,51 @@ const hinokame = {
 
 <br>
 
-## What I like building
+## What I build
 
 ```text
-◆ Backend systems
-◆ REST APIs
-◆ Discord bots
-◆ Web applications
-◆ Dashboards
-◆ Automation tools
-◆ Experimental projects
+Backend systems
+REST APIs
+Discord bots
+Web applications
+Dashboards
+Automation tools
+Developer utilities
+Experimental projects
 ```
 
-I especially enjoy projects where I can work with both the **logic behind the application** and the **experience people have while using it**.
+I especially enjoy projects that combine **backend logic, integrations and clean user experiences**.
 
 <br>
 
-## Currently exploring
+## Currently improving
 
-* Better software architecture
+* Software architecture and project organization
 * Authentication and authorization
-* Databases and data modeling
+* Database design and modeling
+* REST API design
 * Full-stack applications
-* Automation
+* Automation workflows
 * Docker and deployment
-* AI-assisted development
-* New languages and technologies
+* Modern development tooling
+* AI-assisted software development
 
 <br>
 
 ## Featured Projects
 
-> Public projects are coming soon.
+> Public projects coming soon.
 
-I'm currently organizing and improving some of my projects before publishing more of my work here.
+I'm currently organizing, improving and preparing some of my work to be published here.
 
-Future repositories will include projects involving:
+Future repositories will focus on projects involving:
 
 ```text
-APIs        → Backend systems and integrations
-Bots        → Discord bots and automation
+APIs        → Backend services and integrations
+Bots        → Discord systems and automation
 Web         → Full-stack applications and dashboards
-Tools       → Utilities and developer tools
-Experiments → New technologies and ideas
+Tools       → Developer utilities
+Experiments → New technologies and concepts
 ```
 
 <br>
@@ -170,8 +186,8 @@ Experiments → New technologies and ideas
 
 <div align="center">
 
-### `code → build → break → learn → improve → repeat`
+### `build → test → learn → improve`
 
-<sub>Always building something.</sub>
+<sub>Felipe Nascimento • Hinokame</sub>
 
 </div>
