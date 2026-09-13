@@ -51,7 +51,7 @@ Day to day I build with <b style="color:#EAF4FF;">TypeScript, JavaScript, Node.j
 <h2 style="margin:36px 0 14px; padding-left:12px; border-left:3px solid #7FB2FF; font-size:1.15em; font-weight:600; color:#EAF4FF; letter-spacing:0.03em;">Tech Stack</h2>
 
 <p style="margin:0 0 5px;"><span style="color:#647CA5; font-size:0.72em; font-weight:700; letter-spacing:0.14em;">LANGUAGES</span></p>
-<p style="margin:0 0 16px;"><img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css,Java,C#,C++&theme=dark" alt="TypeScript, JavaScript, Python, HTML, CSS"/></p>
+<p style="margin:0 0 16px;"><img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css,java,c#,c+&theme=dark" alt="TypeScript, JavaScript, Python, HTML, CSS"/></p>
 
 <p style="margin:0 0 5px;"><span style="color:#647CA5; font-size:0.72em; font-weight:700; letter-spacing:0.14em;">FRONTEND</span></p>
 <p style="margin:0 0 16px;"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,vite&theme=dark" alt="React, Next.js, Tailwind CSS, Vite"/></p>
