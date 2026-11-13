@@ -37,8 +37,8 @@
 </p>
 
 <h2 align="center">
-  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d245b063-55be-4741-857f-c0a4c8654324" />
- <i>About me</i> <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad26f672-fb19-4816-a49d-c27a05852893" />
+<img width="20" height="20" alt="1535434854290821190" src="https://github.com/user-attachments/assets/1dac62a3-bc23-4aa0-896a-3630592dc6ea" />
+ <i>About me</i> <img width="20" height="20" alt="1535434854290821190" src="https://github.com/user-attachments/assets/1dac62a3-bc23-4aa0-896a-3630592dc6ea" />
 
 </h2>
 
