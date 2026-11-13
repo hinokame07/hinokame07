@@ -46,7 +46,7 @@
   <i>𓈒 𓏸 Somewhere between dreams and code 𓏸 𓈒</i>
 </p>
 
-<img src="https://github.com/hinokame07/Yay-/blob/main/98bf2bab3eca90338da2a441c34fc8f1%20(1).gif?raw=true" width="250" align="right"/>
+<img width="20" height="20" alt="1570596954076094666" src="https://github.com/user-attachments/assets/b4dac770-c6c9-462b-a8b6-a506185d045c" />
 
 <br/>
 
