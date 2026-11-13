@@ -37,7 +37,9 @@
 </p>
 
 <h2 align="center">
-  🫧 <i>About me</i> 🫧
+  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d245b063-55be-4741-857f-c0a4c8654324" />
+ <i>About me</i> <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad26f672-fb19-4816-a49d-c27a05852893" />
+
 </h2>
 
 <p align="center">
