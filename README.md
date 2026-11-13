@@ -69,10 +69,10 @@
 <br clear="both"/>
 
 <p align="center">
-  🩵 <i>Bot & API Developer</i> <br/>
-  🫧 <i>Passionate about technology and creativity</i> <br/>
-  🐚 <i>Music makes every coding session magical</i> <br/>
-  ✧ <i>Always learning, always blooming</i> <br/>
+  <img width="20" height="20" alt="1570596947310678101" src="https://github.com/user-attachments/assets/b1730b93-782d-48e6-8775-0df0d3aa0703" /> <i>Bot & API Developer</i> <br/>
+  <img width="20" height="20" alt="1570596954076094666" src="https://github.com/user-attachments/assets/c10ed4d3-33b6-4c48-9d65-725083e812dd" /> <i>Passionate about technology and creativity</i> <br/>
+  <img width="20" height="20" alt="1570596956634484780" src="https://github.com/user-attachments/assets/2ef15ca3-f301-4d1d-86f2-969835b27ee6" /> <i>Music makes every coding session magical</i> <br/>
+  <img width="14" height="20" alt="1535434858782785608" src="https://github.com/user-attachments/assets/7b533a40-6997-4203-ae1d-25a60a28bf71" /> <i>Always learning, always blooming</i> <br/>
 </p>
 
 <br/>
@@ -82,7 +82,7 @@
 </p>
 
 <h2 align="center">
-  🐚 <i>Technologies</i> 🐚
+ <img width="20" height="20" alt="1570596956634484780" src="https://github.com/user-attachments/assets/e2f02ad5-88ce-4409-b1ee-2852d6c6568d" /> <i>Technologies</i> <img width="20" height="20" alt="1570596956634484780" src="https://github.com/user-attachments/assets/e2f02ad5-88ce-4409-b1ee-2852d6c6568d" />
 </h2>
 
 <p align="center">
@@ -119,7 +119,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hinokame07&bg_color=F3FAFF&color=679FC7&line=91C9EB&point=477FAE&area=true&area_color=D4ECFA&hide_border=true&radius=12"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinokame07&bg_color=F3FAFF&color=679FC7&line=91C9EB&point=477FAE&area=true&area_color=D4ECFA&hide_border=true&radius=12"/>
 </p>
 
 <br/>
