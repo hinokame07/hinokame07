@@ -45,7 +45,7 @@
   <i>𓈒 𓏸 Somewhere between dreams and code 𓏸 𓈒</i>
 </p>
 
-<img width="20" height="20" alt="1570596954076094666" src="https://github.com/user-attachments/assets/b4dac770-c6c9-462b-a8b6-a506185d045c" />
+<img alt="1570596954076094666" src="https://github.com/user-attachments/assets/b4dac770-c6c9-462b-a8b6-a506185d045c" width="250" align="right" />
 
 <br/>
 
